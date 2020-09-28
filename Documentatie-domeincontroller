@@ -1,0 +1,24 @@
+https://medium.com/@malwareanimals/install-ad-ds-dns-and-dhcp-using-powershell-on-windows-server-2016-ac331e5988a7
+
+SHARED FOLDER ALTIJD AANMAKEN 
+
+
+
+Voor de installatie van de domeincontroller starten we met een nieuwe virtuele machine aan te maken. Hierbij nemen we alle automatische stappen en drukken we verder. 
+tot hij is aangemaakt
+
+Voor de installatie maken we gebruik van windows server 2019 (foto1)
+
+Bij de volgende stap kiezen we voor de windows server 2019 standard evaluation (desktop experience)  (foto2)
+Hierna accepteer je de licensie
+
+Klik op advanced en next. 
+Hierna gaat hij de installatieprocessen van je windows server uitvoeren. 
+
+Ook zal je bij de instellingen van de domeincontroller een 2de netwerkadapter moeten instellen op een intern netwerk die je later zelf aanpast. (foto 3)
+
+# om de installatie verder te voltooien zullen we gebruik maken van een geschreven powershell script. Dit script zal zorgen voor: goede nic instellingen, installatie adds, installatie dns,..
+
+Wanneer je het script laat runnen kan het zijn dat hij het wachtwoord vraagt, dan geef je dit gewoon in, en yes to all. (4)
+
+De dns roll wordt automatisch geïnstalleerd wanneer we het forest met domein arne.corona instelde. 
