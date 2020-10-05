@@ -30,4 +30,14 @@ Bij de setup druk je op next -> next -> next
 Er zal een pop-up verschijnen die vraagt om de software te installeren druk hierbij op install.
 (foto 10)
 
-De laatste stap is op finish drukken, hierbij gaat de computer zich heropstarten. 
+De laatste stap in dit kleine proces is op finish drukken, hierbij gaat de computer zich heropstarten. 
+
+Als laatste stap van deze vm template gaan we de shared folder instellen zodat we gemakkelijk scripts op de vm's kunnen zetten.
+Ga in virtualbox naar de vm en klik op instellingen -> gedeelde mappen
+(foto 11)
+
+Klik rechts boven op nieuwe folder toevoegen. Hier zal je het pad moeten ingeven naar de folder waar de scripts zich zullen bevinden. Ook zal je automatisch koppelen moeten aanvinken.
+(foto12)
+
+Dit was de laatste stap voor onze vm template. Vanaf nu kunnen we doorgaan met het installeren van de andere vm's.
+
