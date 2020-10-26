@@ -27,7 +27,9 @@ Log hierna in met gegevens: Arne\arne.corona en als wachtwoord Admin2020 voor he
 
 
 # Download exchange server 2019
-Ga naar https://www.freesoftwarefiles.com/productivity/microsoft-exchange-server-2019-free-download/ op je vm. Hier kan je de nieuwste versie van exhance server downloaden. Deze zal in de shared folder staan. Herplaats deze van de shared folder naar een schijf waar plaats op is. In ons geval de E: schijf.
+Ga naar https://www.freesoftwarefiles.com/productivity/microsoft-exchange-server-2019-free-download/ op je vm. Hier kan je de nieuwste versie van exhance server downloaden. Deze zal in de shared folder staan. Herplaats deze van de shared folder naar een schijf waar plaats op is. In ons geval de c: schijf.
+
+Ga naar de folder en klik op de iso.
 
 Ga naar de dvd drive van exchanche server en klik op de setup en EXCHANGESERVER
 foto 15
@@ -43,3 +45,27 @@ Foto 18
 
 Installeer de mailbox role en zorg ervoor dat hij automatisch server roles en features intalleert indien nodig. 
 Foto 20
+
+Geef de installatie een plaats.
+foto 22
+
+Geef de naam mee van de organisatie
+foto 23
+
+Kies ervoor om malware scanning niet uit te zetten
+Foto 24
+
+Wacht to de readiness checks klaar zijn
+foto 25
+
+Er komen errors op. Download de bestanden die hierbij komen. Download unified communications managed api 4.0 runtime met de default settings.
+foto 26
+
+Download als 2de visual c++ redistributable packages for sivual studio 2013
+FOTO 27
+
+Retry hierna de readiness checks, hierna zouden er geen error meer mogen zijn. Druk hierna op install
+foto 28
+
+Na de setup progress kan je op finish drukken
+foto 29
