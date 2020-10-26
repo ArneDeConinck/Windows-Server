@@ -9,6 +9,8 @@ foto 11
 
 Het script zal ervoor zorgen dat de naam, het ip address, Subnet en default gateway verandert wordt.
 
+# Run sysrep (om in domein te krijgen)
+
 
 # Download exchange server 2019
 Ga naar https://www.freesoftwarefiles.com/productivity/microsoft-exchange-server-2019-free-download/ op je vm. Hier kan je de nieuwste versie van exhance server downloaden. Sla het op op de c: schijf.
