@@ -20,6 +20,8 @@ Het script zal ervoor zorgen dat de naam, het ip address, Subnet en default gate
 
 
 
+
+
 # Download exchange server 2019
 Ga naar https://www.freesoftwarefiles.com/productivity/microsoft-exchange-server-2019-free-download/ op je vm. Hier kan je de nieuwste versie van exhance server downloaden. Deze zal in de shared folder staan. Herplaats deze van de shared folder naar een schijf waar plaats op is. In ons geval de E: schijf.
 
