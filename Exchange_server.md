@@ -19,7 +19,7 @@ foto 11
 Het script zal ervoor zorgen dat de naam, het ip address, Subnet en default gateway verandert wordt.
 
 Kijk na of de instellingen van de netwerkadapter voldaan zijn.
-Na de reboot kan je de computer toevoegen in het domein met het commando: Add-Computer -domain arne.corona -restart
+
 
 Log hierna in met gegevens: Arne\arne.corona en als wachtwoord Admin2020 voor het verdere verloop van de exchange server download.
 
